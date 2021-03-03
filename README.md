@@ -1,6 +1,6 @@
 # react-basic
 
-Learning React main concepts with React Docs, free code camp, and https://www.johnsmilga.com/ tutorials
+Learning React main concepts with React Docs, free code camp, and tutorials from https://www.johnsmilga.com/ 
 
 ## Concepts learned
 * JSX
